@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666485976 source:d:\users\will santos\desktop\programe seu futuro - curso de programação c\aula 148 variáveis locais, globais e escopo de variáveis\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

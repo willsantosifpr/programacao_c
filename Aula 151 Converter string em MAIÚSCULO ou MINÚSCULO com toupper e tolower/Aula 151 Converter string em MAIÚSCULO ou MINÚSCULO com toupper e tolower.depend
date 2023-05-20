@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1667427755 source:d:\users\will santos\desktop\aula 151 converter string em maiÚsculo ou minÚsculo com toupper e tolower\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<ctype.h>
+

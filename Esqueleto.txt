@@ -1,0 +1,13 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+//William Cardoso da Silva Santos - May/20/2023
+
+int main()
+{
+
+
+    getchar();
+
+    return 0;
+}

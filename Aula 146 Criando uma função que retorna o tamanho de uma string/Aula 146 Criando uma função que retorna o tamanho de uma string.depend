@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666228344 source:d:\users\will santos\desktop\programação em c do básico ao avançado\programe seu futuro - curso de programação c\aula 146 criando uma função que retorna o tamanho de uma string\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

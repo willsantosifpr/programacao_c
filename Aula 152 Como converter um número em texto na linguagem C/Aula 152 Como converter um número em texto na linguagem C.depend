@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1668136452 source:d:\users\will santos\desktop\aula 152 como converter um número em texto na linguagem c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	<string.h>
+

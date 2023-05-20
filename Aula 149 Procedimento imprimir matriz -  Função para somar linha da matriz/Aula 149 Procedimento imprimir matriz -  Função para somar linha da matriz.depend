@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1667092284 source:d:\users\will santos\desktop\aula 149 procedimento imprimir matriz -  função para somar linha da matriz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	<time.h>
+

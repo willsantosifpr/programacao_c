@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1667095572 source:d:\users\will santos\desktop\aula 150 função que calcule e retorne a soma de uma coluna da matriz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	<time.h>
+

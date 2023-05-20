@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1666668167 source:d:\users\will santos\desktop\aula 103 como gerar números aleatórios com as funções rand e srand\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+

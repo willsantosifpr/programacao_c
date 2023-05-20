@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668127749 source:d:\users\will santos\desktop\aula 131 como ler uma string com a função fgets na linguagem de programação c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

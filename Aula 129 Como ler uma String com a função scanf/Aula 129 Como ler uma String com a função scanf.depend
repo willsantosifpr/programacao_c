@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1667872649 source:d:\users\will santos\desktop\aula 129 como ler uma string com a função scanf\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
