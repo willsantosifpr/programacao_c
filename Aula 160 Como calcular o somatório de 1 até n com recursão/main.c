@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//William Cardoso da Silva Santos - May/23/2023  1 2 3 4 5
+//William Cardoso da Silva Santos - May/23/2023
 
 int soma(int n)
 {
