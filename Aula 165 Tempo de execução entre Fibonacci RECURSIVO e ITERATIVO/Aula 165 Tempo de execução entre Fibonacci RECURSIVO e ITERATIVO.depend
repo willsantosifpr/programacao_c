@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1685634999 source:d:\users\will santos\desktop\aula 165 tempo de execução entre fibonacci recursivo e iterativo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
