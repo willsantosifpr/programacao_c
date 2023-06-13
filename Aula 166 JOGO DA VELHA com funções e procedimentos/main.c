@@ -161,6 +161,7 @@ int ehValida(int l, int c)
 void lerCoordenadas(char caractere)
 {
     int linha, coluna;
+
     printf("Digite linha e coluna:\n");
     scanf("%d%d", &linha, &coluna);
 
@@ -244,7 +245,7 @@ int main()
         inicializarMatriz();
         jogar();
 
-        printf("Digite 1 para jogar novamente: ");
+        printf("Digite 1 para jogar novamente ou 0 para sair: ");
         scanf("%d", &opcao);
     } while(opcao == 1);
 
