@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1691785901 source:d:\users\will santos\desktop\aula 169 posso usar uma struct dentro de outra struct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
