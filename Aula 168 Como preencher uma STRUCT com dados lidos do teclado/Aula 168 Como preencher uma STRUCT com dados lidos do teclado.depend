@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1691780607 source:d:\users\will santos\desktop\aula 168 como preencher uma struct com dados lidos do teclado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
