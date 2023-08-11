@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1691710858 source:d:\users\will santos\desktop\aula 167 como criar novos tipos de dados em c com typedef struct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
