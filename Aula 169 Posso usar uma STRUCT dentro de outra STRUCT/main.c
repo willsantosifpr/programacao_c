@@ -32,6 +32,9 @@ int main()
 {
     Pessoa pessoa1;
 
+    //Quantidade de memoria utilizada pela struct
+    printf("%d\n", sizeof(Pessoa));
+
     printf("Digite seu nome: ");
     fgets(pessoa1.nome, 100, stdin);
 

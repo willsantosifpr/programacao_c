@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1692215858 source:d:\users\will santos\desktop\aula 172 como passar uma struct como parâmetro para um procedimento\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
