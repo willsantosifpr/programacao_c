@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1692383855 source:d:\users\will santos\desktop\aula 173 como criar uma função que retorna uma struct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
