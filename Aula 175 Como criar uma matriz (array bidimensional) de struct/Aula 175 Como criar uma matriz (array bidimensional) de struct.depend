@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1692469035 source:d:\users\will santos\desktop\aula 175 como criar uma matriz (array bidimensional) de struct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
