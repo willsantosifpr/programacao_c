@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1692995571 source:d:\users\will santos\desktop\aula 179 quantidade de bombas na vizinhança - jogo campo minado parte 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
