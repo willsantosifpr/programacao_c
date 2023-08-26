@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1693089889 source:d:\users\will santos\desktop\aula 180 como imprimir o jogo campo minado - jogo campo minado parte 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
