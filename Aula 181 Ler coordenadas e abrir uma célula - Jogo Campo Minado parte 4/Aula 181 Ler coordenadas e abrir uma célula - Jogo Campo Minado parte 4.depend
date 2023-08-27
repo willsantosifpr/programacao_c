@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1693157741 source:d:\users\will santos\desktop\aula 181 ler coordenadas e abrir uma célula - jogo campo minado parte 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
