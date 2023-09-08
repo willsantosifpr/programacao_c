@@ -235,7 +235,7 @@ int main()
     {
         inicializarJogo();
 
-        sortearBombas(10);
+        sortearBombas(20);
 
         contarBombas();
 
