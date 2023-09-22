@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1695414803 source:d:\users\will santos\desktop\aula 201 como liberar memória alocada dinamicamente com a função free()\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

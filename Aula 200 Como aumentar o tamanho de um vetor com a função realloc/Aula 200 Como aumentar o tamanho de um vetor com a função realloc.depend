@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1695414386 source:d:\users\will santos\desktop\aula 200 como aumentar o tamanho de um vetor com a função realloc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
