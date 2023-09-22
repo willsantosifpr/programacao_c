@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1695391180 source:d:\users\will santos\desktop\aula 199 como alocar um vetor dinâmico na linguagem c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
