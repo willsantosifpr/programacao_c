@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1695502358 source:d:\users\will santos\desktop\aula 202 como alocar uma matriz dinâmica em c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
