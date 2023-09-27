@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1695845571 source:d:\users\will santos\desktop\aula 203 ler nome e nota de três estudantes e imprimir uma tabela\main.c
+	<stdio.h>
+	<stdlib.h>
+
