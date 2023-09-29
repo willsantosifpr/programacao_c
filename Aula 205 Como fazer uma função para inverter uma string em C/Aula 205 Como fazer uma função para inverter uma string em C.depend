@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1696022968 source:d:\users\will santos\desktop\aula 205 como fazer uma função para inverter uma string em c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
