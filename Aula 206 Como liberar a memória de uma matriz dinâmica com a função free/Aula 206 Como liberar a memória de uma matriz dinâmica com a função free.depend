@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1696521391 source:d:\users\will santos\desktop\aula 206 como liberar a memória de uma matriz dinâmica com a função free\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

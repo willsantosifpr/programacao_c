@@ -36,7 +36,5 @@ int main()
         printf("\n");
     }
 
-    free(mat);
-
     return 0;
 }
