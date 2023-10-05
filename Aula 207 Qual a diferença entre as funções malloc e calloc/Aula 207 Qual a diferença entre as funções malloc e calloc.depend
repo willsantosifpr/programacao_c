@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1696542434 source:d:\users\will santos\desktop\aula 207 qual a diferença entre as funções malloc e calloc\main.c
+	<stdio.h>
+	<stdlib.h>
+
