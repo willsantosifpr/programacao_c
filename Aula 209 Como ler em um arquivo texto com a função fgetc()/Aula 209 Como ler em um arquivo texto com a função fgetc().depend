@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1696722146 source:d:\users\will santos\desktop\aula 209 como ler em um arquivo texto com a função fgetc()\main.c
+	<stdio.h>
+	<stdlib.h>
+
