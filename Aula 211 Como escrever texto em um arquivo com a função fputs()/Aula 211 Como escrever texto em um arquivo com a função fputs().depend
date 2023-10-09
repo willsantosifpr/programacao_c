@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1696889095 source:d:\users\will santos\desktop\aula 211 como escrever texto em um arquivo com a função fputs()\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
