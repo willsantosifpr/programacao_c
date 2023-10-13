@@ -1,0 +1,3 @@
+Nome: William	 Idade: 23	 Altura: 1.75
+Nome: John	 Idade: 25	 Altura: 1.81
+Nome: Mary	 Idade: 20	 Altura: 1.60

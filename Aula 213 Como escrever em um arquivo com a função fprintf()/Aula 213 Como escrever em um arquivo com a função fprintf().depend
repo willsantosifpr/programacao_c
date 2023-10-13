@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1697209704 source:d:\users\will santos\desktop\aula 213 como escrever em um arquivo com a função fprintf()\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
