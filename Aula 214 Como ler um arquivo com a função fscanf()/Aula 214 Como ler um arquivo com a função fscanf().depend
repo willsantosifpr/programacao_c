@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1697235247 source:d:\users\will santos\desktop\aula 214 como ler um arquivo com a função fscanf()\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
