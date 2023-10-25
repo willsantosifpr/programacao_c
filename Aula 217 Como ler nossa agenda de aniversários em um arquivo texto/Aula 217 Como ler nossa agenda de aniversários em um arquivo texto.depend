@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1698275208 source:d:\users\will santos\desktop\aula 217 como ler nossa agenda de aniversários em um arquivo texto\main.c
+	<stdio.h>
+	<stdlib.h>
+
