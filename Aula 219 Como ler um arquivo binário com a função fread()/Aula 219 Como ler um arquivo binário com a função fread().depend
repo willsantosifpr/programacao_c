@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1698447887 source:d:\users\will santos\desktop\aula 219 como ler um arquivo binário com a função fread()\main.c
+	<stdio.h>
+	<stdlib.h>
+
