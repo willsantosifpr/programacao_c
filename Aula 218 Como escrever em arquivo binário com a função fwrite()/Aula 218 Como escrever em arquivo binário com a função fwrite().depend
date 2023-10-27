@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1698442211 source:d:\users\will santos\desktop\aula 218 como escrever em arquivo binário com a função fwrite()\main.c
+	<stdio.h>
+	<stdlib.h>
+
