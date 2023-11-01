@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1698854520 source:d:\users\will santos\desktop\aula 221 como atualizar registro em arquivo binario com a função fseek\main.c
+	<stdio.h>
+	<stdlib.h>
+
